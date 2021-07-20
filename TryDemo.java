@@ -11,11 +11,19 @@ public class TryDemo {
 		
 		System.out.println(e);
 		
-	System.out.println("cannot divide by zero 3rd commit" );	
+
+	System.out.println("cannot divide by zero 3rd commit conflict fixed" );	
 			
 	}
 	
-	System.out.println("not an abnormal termination from local2ndtime" );	
+
+	System.out.println("cannot divide by 0" );
+		
+			
+	}
+	
+	System.out.println("not an abnormal termination from git" );	
+
 	
 	
 	}
