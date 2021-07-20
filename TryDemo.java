@@ -11,7 +11,7 @@ public class TryDemo {
 		
 		System.out.println(e);
 		
-	System.out.println("cannot divide by zero" );
+	System.out.println("cannot divide by 0" );
 		
 			
 	}
