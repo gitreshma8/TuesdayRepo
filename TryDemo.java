@@ -11,11 +11,12 @@ public class TryDemo {
 		
 		System.out.println(e);
 		
-	System.out.println("cannot divide by zero" );	
+	System.out.println("cannot divide by zero" );
+		
 			
 	}
 	
-	System.out.println("not an abnormal termination from local" );	
+	System.out.println("not an abnormal termination from git" );	
 	
 	
 	}
