@@ -15,7 +15,7 @@ public class TryDemo {
 			
 	}
 	
-	System.out.println("not an abnormal termination" );	
+	System.out.println("not an abnormal termination from local" );	
 	
 	
 	}
